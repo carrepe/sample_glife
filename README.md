@@ -3,3 +3,4 @@
 --------------------------
 + 자료를 다운받고 VScode 에서 열어주세요
 + 구조문 작성 및 CSS 적용을 학습하겠습니다.
+<img src="https://raw.githubusercontent.com/carrepe/sample_glife/master/img/20212021060245956150973290.jpg" width="600px">
